@@ -1,10 +1,5 @@
 User-agent: *
-
 Allow: /
 
-Disallow: /content.php
-Disallow: /[0-9]/
-Disallow: /tag/
-Disallow: /feed/
-
+# Sitemap
 Sitemap: https://diziapex.com/sitemap.xml
