@@ -180,13 +180,13 @@ h6 {
 }
 
 h1 {
-  font-size: 148px;
+  font-size: 6rem;
   font-weight: 800;
   line-height: 108%;
 }
 @media (max-width: 1600px) {
   h1 {
-    font-size: 130px;
+    font-size: 5rem;
   }
 }
 @media (max-width: 991px) {
@@ -3731,7 +3731,7 @@ span {
   color: var(--white);
   -webkit-text-stroke-width: 2px;
   -webkit-text-stroke-color: var(--white);
-  font-size: 148px;
+  font-size: 5rem;
   color: transparent;
   font-weight: 800;
 }
